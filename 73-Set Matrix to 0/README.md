@@ -2,7 +2,12 @@ Given an m x n integer matrix matrix, if an element is 0, set its entire row and
 
 You must do it in place.
 
-i/p             o/p
-1 2 3           1 0 3
-1 0 1           0 0 0
-1 1 1           1 0 1
+i/p          
+1 2 3   
+1 0 1   
+1 1 1   
+o/p     
+1 0 3       
+0 0 0       
+1 0 1  
+
